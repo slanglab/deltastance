@@ -1,6 +1,7 @@
 ## 𝛿-Stance: A Large-Scale Real World Dataset of Stances in Legal Argumentation
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![paper](https://img.shields.io/badge/Link%20to-paper-you_like?logoColor=blue&color=green)](https://bit.ly/43CJfCr)
+[![poster](https://img.shields.io/badge/Link%20to-poster-you_like?logoColor=blue&color=orange)](https://bit.ly/3QZL7gY)
 [![License: CC](https://img.shields.io/badge/license-CC--BY--NC--SA_4.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 
