@@ -1,11 +1,11 @@
 ## 𝛿-Stance: A Large-Scale Real World Dataset of Stances in Legal Argumentation
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
-[![paper](https://img.shields.io/badge/Link%20to-paper-you_like?logoColor=blue&color=green)](https://bit.ly/43CJfCr)
-[![poster](https://img.shields.io/badge/Link%20to-poster-you_like?logoColor=blue&color=orange)](https://bit.ly/3QZL7gY)
+[![paper](https://img.shields.io/badge/Link%20to-paper-you_like?logoColor=blue&color=green)](https://drive.google.com/file/d/1o49Ym_rN7V_tmzfDI2LjzH8xV2BkaQcv/view?usp=sharing)
+[![poster](https://img.shields.io/badge/Link%20to-poster-you_like?logoColor=blue&color=orange)](https://drive.google.com/file/d/12z77olfVETEq7B1i_LsakBcPSsdv7PSZ/view?usp=sharing)
 [![License: CC](https://img.shields.io/badge/license-CC--BY--NC--SA_4.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 
-This is the official repository for our paper, [𝛿-Stance: A Large-Scale Real World Dataset of Stances in Legal Argumentation](https://bit.ly/43CJfCr). 𝛿-Stance is a dataset of stances involved in legal argumentation, providing stance-annotated argument pairs, semi-automatically mined from millions of examples of U.S. judges citing precedent in context using citation signals. 
+This is the official repository for our paper, [𝛿-Stance: A Large-Scale Real World Dataset of Stances in Legal Argumentation](https://drive.google.com/file/d/1o49Ym_rN7V_tmzfDI2LjzH8xV2BkaQcv/view?usp=sharing). 𝛿-Stance is a dataset of stances involved in legal argumentation, providing stance-annotated argument pairs, semi-automatically mined from millions of examples of U.S. judges citing precedent in context using citation signals. 
 
 This repository contains code for curating stance-annotated tuples and provides a sample of our dataset along with the code to reproduce the modeling experiments discussed in our paper.
 
